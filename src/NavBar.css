@@ -1,0 +1,14 @@
+.MyNavBarClass a {
+    color: purple;
+  }
+  
+  .MyNavBarClass a.active {
+    color: black;
+  }
+
+  .navBarLink {
+    margin: 5px;
+  }
+
+
+
